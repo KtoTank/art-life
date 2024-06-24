@@ -12,7 +12,11 @@ module.exports = {
       accentBlue: '#2C3D55',
       accentFio: '#6A687A',
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        base:['Marmelad']
+      }
+    },
   },
   plugins: [],
 }
