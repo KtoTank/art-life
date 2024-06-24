@@ -11,6 +11,7 @@ module.exports = {
       cream: '#DDD5D0',
       accentBlue: '#2C3D55',
       accentFio: '#6A687A',
+      black: '#000',
     },
     extend: {
       fontFamily: {
@@ -18,5 +19,6 @@ module.exports = {
       }
     },
   },
-  plugins: [],
-}
+  plugins: [require('flowbite/plugin')],
+  }
+

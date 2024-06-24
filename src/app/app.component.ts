@@ -13,4 +13,5 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'art-life';
   mail = "Art-life@mail.ru"
+  
 }
